@@ -1,4 +1,5 @@
-## ![Logo UIMM](logo_uimm_placeholder.jpg) Pôle Formation UIMM CVDL (S. Jaubert) 
+## ![Logo UIMM](logo_uimm_placeholder.jpg)
+(Pôle Formation UIMM CVDL - S. Jaubert) 
 
 <br>
 
