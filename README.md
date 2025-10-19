@@ -1,4 +1,5 @@
-# Pôle Formation-uimmcvdl
+## ![Logo UIMM](logo_uimm_placeholder.jpg) Pôle Formation UIMM CVDL (S. Jaubert) 
+
 <br>
 
 [TP Analyse TRS](https://sjaubert.github.io/bachelor-uimmcvdl/TP_Analyse_TRS.html?target=_blank)
